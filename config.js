@@ -1,4 +1,4 @@
 window.TKS_CONFIG = {
-  supabaseUrl: 'YOUR_PROJECT_URL',
-  supabaseAnonKey: 'YOUR_PUBLISHABLE_KEY'
+  supabaseUrl: 'https://dmeybruyuaelwuttvbmn.supabase.co',
+  supabaseAnonKey: 'sb_publishable_qMR4N3HFjwKFfbkiZ1jjbg_9PiqIpJU'
 };
